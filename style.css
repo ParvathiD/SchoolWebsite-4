@@ -1,0 +1,105 @@
+html{
+scroll-behavior: smooth;
+}
+#myNavBar{
+    background-color: black;
+    text-decoration-color: orange;
+}
+Marquee{
+    background-color: orange;
+    font-size: 15px;
+    font-weight: bold;
+    position: sticky;
+    z-index: 00000
+}
+.navbar a {
+  color: orange;
+}
+#WDP {
+  width: 1350;
+  height: 100%;
+  object-fit: cover;
+}
+#ContactUs {
+    background-color: orange;
+    display:inline;
+}
+#details h3{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: orange;
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.travel_mainDiv{
+    float: 3px solid grey;
+    width: 33.33%;
+    padding: 5px;
+    float: left;
+}
+.travel_mainDiv img{
+    width: 100%;
+    height: 300px;
+}
+.travel_mainDiv hr{
+    width: 100%;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+    margin-left: 20;
+}
+#AchieveImg{
+    padding: 5px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: orange;
+    color: black;
+}
+.movie_head i{
+    float: right;
+}
+movie_text span{
+    color: yellow;
+}
+#logo{
+    height: 200px;
+    width: 200px;
+}
+.New_li{
+    margin-top: 13px;
+}
+.New_li img{
+    border-radius: 25px;
+}
+.New_li p{
+    margin-top: 10px;
+}
+.New_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+#mainpic{
+    padding-bottom: 40px;
+    width:70 ;
+    height: 100;
+}
+#SchoolNames{
+    text-align: center;
+}
+#SchoolNames p h5{
+    text-align: center;
+}
+#Alumnimage{
+    height: 400px;
+    width: 300px;
+    border-bottom: 10px;
+}
